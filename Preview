@@ -1,0 +1,46 @@
+
+<html> 
+    <!--head-->
+<head>
+    <title>
+        pennlogistics
+        </title> 
+     <link href="style.css"  rel="stylesheet" type="CSS">
+     
+</head>
+<!---- body -->
+<body>
+    <div class='top'>
+    <!---- <img src="Images/Trucking.jpg" />  -->
+    <h1 class='title'> Welcome to Penn Logistics LLC </h1>
+    <!---  <h5>created by:Daman singh</h5> --main heading-->
+      <ul>
+        <div id="information"> 
+        
+            <li> About us </li>
+            <p id="about-us"> We started by our company in EST 2011. 
+                it is a small family owned and opertating company
+               <br> we have 5 trucks currently and expected to have 8 by starting on 2023.</br> </p>
+            <li><a>Services</a>
+                <p id="services"> We provide flatbed,Reffer and Dry van services </p>
+            <li><a>Jobs</a></li>
+        </ul>
+    </div> 
+        <div id="contact"> 
+         <br>
+        <button>Billing</button>
+ 
+     <P id="footer"> <strong>Email</strong>:pennlogistics@gmail.com
+         <strong>Phone number</strong>:232131 <strong>Address: Sewell New jersey</strong>:
+        <br> Best Rates on the land 
+        
+     <!-- <br>currently under works  -->
+ 
+ </P>
+    </body>
+     
+       
+
+      
+
+</html>
